@@ -36,6 +36,7 @@ src/main/resources/static/images/vistula.png
 ---
 
 ## Controller Example
+<img width="1544" height="758" alt="Знімок екрана 2026-01-09 153719" src="https://github.com/user-attachments/assets/052cd374-5b5d-4b39-956b-d898047d2157" />
 
 ```java
 @Controller
@@ -83,5 +84,7 @@ http://localhost:8080/
 http://localhost:8080/greeting
 
 You should see the greeting page with an image displayed.
+<img width="1118" height="533" alt="Знімок екрана 2026-01-09 153734" src="https://github.com/user-attachments/assets/6c219fcd-c764-4010-83ae-e8b65b31be7e" />
+
 ## Project Structure
 
